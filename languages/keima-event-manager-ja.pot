@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-06 12:05+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: keima event manager\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "This plugin needs \"Advanced Custom Fields\" to run. Please <a href=\"https://www.advancedcustomfields.com\" target=\"_blank\">download</a> and activate it before."
+msgstr ""
+
+msgid "This plugin needs \"Advanced Custom Fields\" to run. Please activate it before."
+msgstr ""
+
+msgid "Event Manager"
+msgstr ""
+
+msgid "Manage event"
+msgstr ""
+
+msgid "Login page"
+msgstr ""
+
+msgid "Logout page"
+msgstr ""
+
+msgid "Top page after login"
+msgstr ""
+
+msgid "Login type"
+msgstr ""
+
+msgid "Mail and Password"
+msgstr ""
+
+msgid "ID and Password"
+msgstr ""
+
+msgid "Only Password"
+msgstr ""
+
+msgid "Apply event (page)"
+msgstr ""
+
+msgid "Apply event (user)"
+msgstr ""
+
+msgid "Applicable events"
+msgstr ""
+
+msgid "Mail"
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Please specify \"event_slug\" as follows.<br>[kem_login_form event_slug=\"slug_name\"]"
+msgstr ""
+
+msgid "Please check the entered \"event_slug\"."
+msgstr ""
+
+msgid "Please specify \"mail\" as below.<br>[kem_login_form mail=\"user@domain.com\"]"
+msgstr ""
+
+msgid "An unexpected error has occurred. Please reload the page and try accessing it again."
+msgstr ""
+
+msgid "Invalid access. Please reload the page and try accessing it again."
+msgstr ""
+
+msgid "The email address or password is incorrect."
+msgstr ""
+
+msgid "The ID or password is incorrect."
+msgstr ""
+
+msgid "The password is incorrect."
+msgstr ""
+
+msgid "The account you entered does not have permission."
+msgstr ""
+
+msgid "User data export"
+msgstr ""
+
+msgid "User data import"
+msgstr ""
+
+msgid "User data import with apply event"
+msgstr ""
+
+msgid "CSV file selection"
+msgstr ""
+
+msgid "Import user data"
+msgstr ""
+
+msgid "* Please use UTF-8 as the character code."
+msgstr ""
+
+msgid "* If it is a CSV file downloaded from Google Spread Sheet, the character code is UTF-8."
+msgstr ""
+
+msgid "* Below is the base Google Spread Sheet file."
+msgstr ""
+
+msgid "Select the file and click the \"Import User Data\" button."
+msgstr ""
+
+msgid "...processing..."
+msgstr ""
+
+msgid "Import process result"
+msgstr ""
+
+msgid "Newly added users"
+msgstr ""
+
+msgid "Updated users"
+msgstr ""
+
+msgid "Import failed users"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Summary"
+msgstr ""
+
+msgid "Number of newly added users:"
+msgstr ""
+
+msgid "Number of updated users:"
+msgstr ""
+
+msgid "Number of error users:"
+msgstr ""
+
+msgid "Total number of lines:"
+msgstr ""

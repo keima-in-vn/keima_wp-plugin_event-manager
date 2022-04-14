@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-06 12:05+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: keima event manager\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "This plugin needs \"Advanced Custom Fields\" to run. Please <a href=\"https://www.advancedcustomfields.com\" target=\"_blank\">download</a> and activate it before."
+msgstr "このプラグインは「Advanced Custom Fields」を必要とします。<a href=\"https://www.advancedcustomfields.com\" target=\"_blank\">ダウンロード</a>いただき有効化してください。"
+
+msgid "This plugin needs \"Advanced Custom Fields\" to run. Please activate it before."
+msgstr "このプラグインは「Advanced Custom Fields」を必要とします。「Advanced Custom Fields」を有効化してください。"
+
+msgid "Event Manager"
+msgstr "イベント管理"
+
+msgid "Manage event"
+msgstr "イベント管理"
+
+msgid "Login page"
+msgstr "ログインページ"
+
+msgid "Logout page"
+msgstr "ログアウトページ"
+
+msgid "Top page after login"
+msgstr "ログイン後トップページ"
+
+msgid "Login type"
+msgstr "ログインタイプ"
+
+msgid "Mail and Password"
+msgstr "メールとパスワード"
+
+msgid "ID and Password"
+msgstr "IDとパスワード"
+
+msgid "Only Password"
+msgstr "パスワードのみ"
+
+msgid "Apply event (page)"
+msgstr "イベント適用（ページ）"
+
+msgid "Apply event (user)"
+msgstr "イベント適用（ユーザ）"
+
+msgid "Applicable events"
+msgstr "適用されるイベント"
+
+msgid "Mail"
+msgstr "メールアドレス"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Login"
+msgstr "ログイン"
+
+msgid "Please specify \"event_slug\" as follows.<br>[kem_login_form event_slug=\"slug_name\"]"
+msgstr "以下のように「event_slug」を指定してください。<br>[kem_login_form event_slug=\"slug_name\"]"
+
+msgid "Please check the entered \"event_slug\"."
+msgstr "入力されている「event_slug」をご確認ください。"
+
+msgid "Please specify \"mail\" as below.<br>[kem_login_form mail=\"user@domain.com\"]"
+msgstr "以下のように「mail」を指定してください<br>[kem_login_form mail=\"user@domain.com\"]"
+
+msgid "An unexpected error has occurred. Please reload the page and try accessing it again."
+msgstr "予期せぬエラーが発生しました。ページをリロードし改めてアクセスをしてみてください。"
+
+msgid "Invalid access. Please reload the page and try accessing it again."
+msgstr "不正なアクセスです。ページをリロードし改めてアクセスをしてみてください。"
+
+msgid "The email address or password is incorrect."
+msgstr "メールアドレス、もしくはパスワードが異なります。"
+
+msgid "The ID or password is incorrect."
+msgstr "ID、もしくはパスワードが異なります。"
+
+msgid "The password is incorrect."
+msgstr "パスワードが異なります。"
+
+msgid "The account you entered does not have permission."
+msgstr "入力いただいたアカウントには、アクセス権がありません。"
+
+msgid "User data export"
+msgstr "ユーザデータエクスポート"
+
+msgid "User data import"
+msgstr "ユーザデータインポート"
+
+msgid "User data import with apply event"
+msgstr "適用イベント付きユーザデータインポート"
+
+msgid "CSV file selection"
+msgstr "CSVファイルの選択"
+
+msgid "Import user data"
+msgstr "ユーザデータをインポートする"
+
+msgid "* Please use UTF-8 as the character code."
+msgstr "※ 文字コードはUTF-8としてください。"
+
+msgid "* If it is a CSV file downloaded from Google Spread Sheet, the character code is UTF-8."
+msgstr "※ Google Spread SheetからダウンロードしたCSVファイルであれば、文字コードはUTF-8となっています。"
+
+msgid "* Below is the base Google Spread Sheet file."
+msgstr "※ 以下にベースとなるGoogle Spread Sheetファイルがあります。"
+
+msgid "Select the file and click the \"Import User Data\" button."
+msgstr "ファイルを選択して、「ユーザデータをインポートする」ボタンをクリックしてください。"
+
+msgid "...processing..."
+msgstr "...処理中です..."
+
+msgid "Import process result"
+msgstr "インポート処理結果"
+
+msgid "Newly added users"
+msgstr "新規に追加されたユーザ"
+
+msgid "Updated users"
+msgstr "更新されたユーザ"
+
+msgid "Import failed users"
+msgstr "インポートが失敗したユーザ"
+
+msgid "None"
+msgstr "なし"
+
+msgid "Summary"
+msgstr "サマリー"
+
+msgid "Number of newly added users:"
+msgstr "新規追加ユーザ数："
+
+msgid "Number of updated users:"
+msgstr "更新ユーザ数："
+
+msgid "Number of error users:"
+msgstr "エラーユーザ数："
+
+msgid "Total number of lines:"
+msgstr "トータル行数："
